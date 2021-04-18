@@ -1,0 +1,13 @@
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\bin\Debug\netcoreapp3.1\RangePartitioner.exe
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\bin\Debug\netcoreapp3.1\RangePartitioner.deps.json
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\bin\Debug\netcoreapp3.1\RangePartitioner.runtimeconfig.json
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\bin\Debug\netcoreapp3.1\RangePartitioner.runtimeconfig.dev.json
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\bin\Debug\netcoreapp3.1\RangePartitioner.dll
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\bin\Debug\netcoreapp3.1\RangePartitioner.pdb
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\obj\Debug\netcoreapp3.1\RangePartitioner.csprojAssemblyReference.cache
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\obj\Debug\netcoreapp3.1\RangePartitioner.AssemblyInfoInputs.cache
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\obj\Debug\netcoreapp3.1\RangePartitioner.AssemblyInfo.cs
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\obj\Debug\netcoreapp3.1\RangePartitioner.csproj.CoreCompileInputs.cache
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\obj\Debug\netcoreapp3.1\RangePartitioner.dll
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\obj\Debug\netcoreapp3.1\RangePartitioner.pdb
+C:\Users\boich\source\repos\RangePartitioner\RangePartitioner\obj\Debug\netcoreapp3.1\RangePartitioner.genruntimeconfig.cache
